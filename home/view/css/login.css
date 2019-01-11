@@ -1,0 +1,147 @@
+.log-a{
+	background: url(../images/1.png);
+	height: 600px;
+	width: 100%;
+}
+.log-w{
+	height: 130px;
+	width: 270px;
+	position: absolute;
+	left: 560px;
+	top: 100px
+}
+.log-b{
+	height: 33px;
+	width:350px;
+	line-height: 30px;
+	position: absolute;
+	left: 525px;
+	top: 225px
+}
+.logb-left{
+	width: 175px;
+	color: #918e8e;
+	font-size: 19px;
+	font-weight: 500;
+	padding-left: 75px;
+	float: left;
+	cursor: pointer;
+}
+.logb-right{
+	width: 120px;
+	color: #918e8e;
+	font-size: 19px;
+	font-weight: 500;
+	padding-left: 20px;
+	float: left;
+	cursor: pointer;
+}
+.log-c{
+	width: 340px;
+	height: 200px;
+	position: absolute;
+	left: 525px;
+	top: 260px;
+	/*background: #000;*/
+}
+.logc-input1{
+	width: 335px;
+	height: 55px;
+	border: 0px;
+	padding-left: 75px;
+	font-size: 17px;
+	background:#fff url(../images/ren.png) no-repeat;
+	background-size: 55px 64px;
+}
+.logc-input2{
+	width: 222px;
+	height: 55px;
+	border: 0px;
+	padding-left: 75px;
+	font-size: 17px;
+	background:#fff url(../images/mess.png) no-repeat;
+	background-size: 55px 64px;
+}
+.logc-input4{
+	width: 335px;
+	height: 55px;
+	border: 0px;
+	padding-left: 75px;
+	font-size: 17px;
+	background:#fff url(../images/2.png) no-repeat;
+	background-size: 55px 64px;
+}
+.logc-input3{
+	width: 98px;
+	height: 55px;
+	border: 0px;
+	font-size: 17px;
+	margin-left: 12px;
+	text-align: center;
+	background: #d2d2d2;
+}
+.logc-span{
+	font-size: 17px;
+	color: #d4d1d1;
+	/*text-decoration: underline;*/
+}
+.logc-span a{
+	color: #d4d1d1;
+}
+.logc-span a:hover{
+	color: #def2e7;
+	text-decoration: none;
+}
+.logc-span1{
+	font-size: 15px;
+	color: #d4d1d1;
+	text-decoration: underline;
+	padding-left: 179px;
+}
+.logc-span1 a{
+	color: #d4d1d1;
+}
+.logc-span1 a:hover{
+	color: #def2e7;
+	text-decoration: none;
+}
+.log-hr{
+	float: left;
+	margin-top: 0px;
+    margin-bottom: 10px;
+    border: 0;
+    border-top: 1.5px solid #009944;
+}
+.log-hr1{
+	float: left;
+	margin-top: 0px;
+    margin-bottom: 10px;
+    border: 0;
+    border-top: 1.5px solid #918e8e;
+}
+.myactive{
+	color: #fff;
+	font-size: 19px;
+	font-weight: 550;
+}
+.log-d{
+	position: absolute;
+	left: 525px;
+	top: 455px;
+	height: 60px;
+	width: 25%;
+}
+.btn{
+	font-size: 16px;
+}
+.logd-yes{
+	height: 50px;
+	width: 100%;
+	border: 0;
+	background: #fff;
+	font-size: 17px;
+}
+.logd-yes:hover{
+	background: #434343;
+	color: #fff;
+}

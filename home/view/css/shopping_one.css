@@ -1,0 +1,275 @@
+.shop-all{
+	height: 100%;
+	width: 100%;
+}
+.shop-a{
+	background: #06332b;
+	width: 100%;
+	height: 50px;
+}
+.shop-b{
+	height: 150px;
+	width: 100%;
+	text-align: center;
+	border-bottom: 3px solid #626262;
+}
+.shop-b img{
+	width: 350px;
+	height: 155px;
+}
+.shop-c{
+	width: 80%;
+	margin: 0 auto;
+	height: 100%;
+}
+.sc-one{
+	height: 60px;
+	width: 100%;
+	font-size: 2em;
+	line-height: 80px;
+}
+.sco-zi{
+	font-size: 0.6em;
+	float: right;
+	line-height: 90px;
+}
+.sco-zi a{
+	color: #000;
+	text-decoration: none;
+}
+.sco-zi a:hover{
+	color: #000;
+	text-decoration: none;
+}
+.sc-two{
+	height: 100%;
+	width: 100%;
+	border: 1px solid #a5a5a5;
+	border-bottom: 0px;
+}
+.sct-a{
+	height: 40px;
+	width: 100%;
+	background: #06332b;
+}
+.sct-box{
+	height: 30px;
+	width: 70px;
+	float: left;
+	margin-left: 4%;
+	margin-top: 0.8%;
+	color: #06332b;
+	font-size: 1.1em;
+}
+.sct-box input[type="checkbox"]{
+	position: absolute;
+	clip: rect(0,0,0,0);
+}
+.sct-box input[type="checkbox"] +label::before{
+	content: "";
+	background: #fff;
+	border: 1px solid #c2c7cb;
+	width: 20px;
+	height: 20px;
+	float: left;
+	margin-right: 6px;
+	margin-top: 2px;
+}
+.sct-box input[type="checkbox"]:checked +label::before{
+	background-color: #fff;
+	background-clip: content-box;
+	padding:4px;
+}
+.sct-box label{
+	/*padding-left: 5%;*/
+}
+.sct-zi{
+	color: #fff;
+	font-size: 1.2em;
+	padding-top: 0.8%;
+	float: left;
+	width: 150px;
+	height: 100%;
+	margin-left: 3%;
+}
+.sct-zi1{
+	color: #fff;
+	font-size: 1.2em;
+	padding-top: 0.8%;
+	float: left;
+	width: 150px;
+	height: 100%;
+	margin-left: 6%;
+}
+.sct-zi2{
+	color: #fff;
+	font-size: 1.2em;
+	float: right;
+	width: 100px;
+	height: 100%;
+	margin-left: 1%;
+	margin-top: -20px;
+}
+.sct-b{
+	height: 210px;
+	width: 100%;
+	border-bottom: 1px solid  #a5a5a5;
+}
+.sct-box1{
+	height: 30px;
+	width: 45px;
+	float: left;
+	margin-left: 4%;
+	margin-top: 7%;
+	color: #06332b;
+	font-size: 1.1em;
+	background: #fff;
+}
+.sct-box1 input[type="checkbox"]{
+	position: absolute;
+	clip: rect(0,0,0,0);
+}
+.sct-box1 input[type="checkbox"] +label::before{
+	content: "";
+	background: #fff;
+	border: 1px solid #c2c7cb;
+	width: 20px;
+	height: 20px;
+	float: left;
+	margin-right: 6px;
+	margin-top: 2px;
+}
+.sct-box1 input[type="checkbox"]:checked +label::before{
+	background-color: #06332b;
+	background-clip: content-box;
+	padding:2px;
+}
+.sctb-img img{
+	margin-top: 2.3%;
+	height: 150px;
+	width: 150px;
+	float: left;
+}
+.sct-tail{
+	height: 150px;
+	width: 150px;
+	font-size: 1.1em;
+	margin-top: 2.3%;
+	float: left;
+	margin-left: 4%;
+
+}
+.sct-ti{
+	height: 130px;
+	width: 100%;
+}
+.sct-del{
+	height: 20px;
+	width: 100%;
+	text-decoration: underline;
+}
+.sct-single{
+	font-size: 1.5em;
+	color: #06332b;
+	margin-top: 7%;
+	float: left;
+	height: 110px;
+	margin-left: 9.5%;
+}
+.sct-single1{
+	font-size: 1.5em;
+	color: #06332b;
+	margin-top: 6%;
+	float: left;
+	height: 110px;
+	margin-left: 9.5%;
+}
+.sct-num{
+	height: 80px;
+	width: 150px;
+	margin-top: 7%;
+	float: left;
+	margin-left: 11%;
+	font-size: 1.3em;
+	text-align: center;
+}
+.sctn-jian{
+	height: 30px;
+	width: 30px;
+	border: 1px solid #a5a5a5;
+	float: left;
+	margin-right: 2%;
+}
+.sctn-test{
+	height: 30px;
+	width: 70px;
+	float: left;
+	text-align: center;
+	margin-right: 2%;
+}
+.sctn-jia{
+	height: 30px;
+	width: 30px;
+	border: 1px solid #a5a5a5;
+	float: left;
+}
+.shop-d{
+	height: 120px;
+	width: 100%;
+	font-size: 1.3em;
+	color: #06332b;
+	padding-left: 13%;
+    margin-top: 2%;
+}
+.sd-zi{
+	padding-left:4.5%; 
+}
+.shop-e{
+	height: 60px;
+	width: 80%;
+	margin: 0 auto;
+	border:1px solid #a5a5a5;
+	font-size: 1.3em;
+    line-height: 60px;
+    padding-left: 3%;
+}
+.shop-e a{
+	color: #000;
+	text-decoration: none;
+}
+.shop-e a:hover{
+	color: #000;
+	text-decoration: none;
+}
+.se-right{
+	height: 100%;
+	width: 100%;
+	float: left;
+	font-size: 1.2em;
+	margin-left: 58.9;
+	margin-top: -1px;
+}
+.ser-zi{
+	color: #06332b;
+	font-weight: 550;
+	font-size: 1.3em;
+}
+.ser-a{
+	margin-right: 63.2%;
+	float: left;
+	font-size: 0.8em;
+}
+.ser-buy{
+	background: #06332b;
+	border: 1px solid #06332b;
+	height: 100%;
+	width: 120px;
+	text-align: center;
+	font-size: 1em;
+	color: #fff;
+}
+.shop-bai{
+	height: 200px;
+	width: 100%;
+	background: #fff;
+}

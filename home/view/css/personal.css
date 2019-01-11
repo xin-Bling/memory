@@ -1,0 +1,64 @@
+.per-all{
+	height: 100%;
+	width: 100%;
+}
+.fen-a{
+	height: 100%;
+	width: 28%;
+	float: left;
+}
+.fena-top{
+	font-size: 2.5em;
+	line-height: 130px;
+	margin-left: 25%;
+	height: 95px;
+	width: 70%;
+	border-bottom: 1px solid #959595;
+	margin-bottom: 10px;
+}
+.fena-bot{
+	height: 280px;
+	width: 70%;
+	margin-left: 25%;
+	padding-bottom: 10px;
+	border-bottom: 1px solid #959595;
+}
+.fena-1{
+	height: 50px;
+	width: 70%;
+    line-height: 50px;
+
+}
+.fena-1 a{
+	color: #837a7a;
+	text-decoration: none;
+}
+.fena-1 a:hover{
+	color: #837a7a;
+	text-decoration: none;
+}
+.fena-1 img{
+	height: 40px;
+	width: 40px;
+	float: left;
+	margin-top: 5px;
+}
+.fena1-zi{
+	font-size: 1.7em;
+    float: left;
+    padding-left: 8px;
+}
+.fen-b{
+	height: 100%;
+	width: 62%;
+	float: left;
+}
+.fenb-top{
+	font-size: 1.1em;
+	color: #aea6a6;
+	line-height: 150px;
+	height: 95px;
+	width: 100%;
+	border-bottom: 1px solid #959595;
+	margin-bottom: 10px;
+}

@@ -1,0 +1,135 @@
+.reg-a{
+	background: url(../images/1.png);
+	height: 600px;
+	width: 100%;
+}
+.reg-b{
+	background: #fff;
+	height: 530px;
+    width: 530px;
+    position: absolute;
+    left: 33%;
+    top: 5%;
+}
+.regb-div{
+	height: 60px;
+	width: 100%;
+	font-size: 30px;
+	color: #000;
+	text-align: center;
+	line-height: 80px;
+}
+.regb-hr{
+	border:0;
+	margin-top: 0px;
+		margin-bottom: 5px;
+		width: 80%;
+		border-top: 1px solid #000;
+}
+.regb-hr1{
+	border:0;
+	margin-top: 0px;
+		margin-bottom: 5px;
+		width: 40%;
+		border-top: 3px solid #009944;
+		position: absolute;
+    left: 30%;
+    top: 11%;
+}
+.regb-span{
+	font-size: 15px;
+	text-align: right;
+	padding-right: 52px;
+	margin-bottom: 5px;
+}
+.regbs-s{
+	color: #1abc9e;
+	font-weight:550;
+}
+.regbs-s a{
+	color: #1abc9e;
+}
+.regb-box{
+	width: 60%;
+	margin: 0 auto;
+	font-size: 16px;
+}
+.regb-box input[type="radio"]{
+	position: absolute;
+	clip: rect(0,0,0,0);
+}
+.regb-box input[type="radio"] +label::before{
+	content: "";
+	background: #fff;
+	border: 1px solid #c2c7cb;
+	width: 15px;
+	height: 15px;
+	float: left;
+	margin-right: 6px;
+	margin-top: 2px;
+}
+.regb-box input[type="radio"]:checked +label::before{
+	background-color: #009944;
+	background-clip: content-box;
+	padding:2px;
+}
+.regb-input{
+	width: 60%;
+	height: 330px;
+	margin: 0 auto;
+	/*background: #000;*/
+}
+.regbi-in{
+	float: left;
+	height: 45px;
+	width: 50%;
+	padding-left: 22px;
+}
+.regbi-in1{
+	height: 45px;
+	width: 100%;
+	padding-left: 22px;
+	margin-bottom: 20px;
+}
+.regbi-in2{
+	float: left;
+	height: 45px;
+	width: 23%;
+	margin-left: 15px;
+	border: 1px solid #d2d2d2;
+}
+.regbi-img{
+	float: left;
+	width: 20%;
+	text-decoration: underline;
+	margin-left: 5px;
+	line-height: 26px;
+}
+.regb-lett{
+	float: left;
+	height: 60px;
+	width: 100%;
+}
+.regbi-yes{
+	float: left;
+	height: 70px;
+	width: 100%;
+}
+.yes-l{
+	width: 5%;
+	float: left;
+}
+.yes-r{
+	width: 90%;
+	float: left;
+}
+.regb-fin{
+	width: 30%;
+	height: 50px;
+	background: #434343;
+	border: 0px;
+	color: #fff;
+    font-size: 17px;
+    float: right;
+    margin-right: 20%;
+}
