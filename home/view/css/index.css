@@ -110,15 +110,14 @@
 	font-size: 1.5em;
 	font-weight: 550;
 	font-family: 微软雅黑;
-	margin-left: 17%;
 	padding-top: 0.7%;
 }
 .inb-zi a{
 	color: #2a2a2a;
 	text-decoration: none;
-	padding-right: 4%;
-	width: 100px;
-	height: 30px;
+	/*padding-right: 4%;
+	width: 150px;
+	height: 39px;*/
 }
 .kuai{
 	height: 21px;
@@ -126,16 +125,15 @@
     background: #f00;
     float: right;
     margin-right: 24%;
-    margin-top: -24px;
+    margin-top: 5.5px;
     z-index: 1;
 }
 .in-c{
 	height:430px;
 	width: 100%;
-	margin-top: 5px;
 }
 .inc-img{
-	width: 100%;
+	width: 430px;
 	height: 100%;
 }
 .inc-zi{
@@ -143,8 +141,8 @@
 	color: #fff;
 	font-weight: 550;
 	position: relative;
-	top: -50%;
-    left: 42%;
+	top: -56%;
+    left: 39.5%;
     width: 23%;
 }
 .inc-zi1{
@@ -152,8 +150,8 @@
 	color: #fff;
 	font-weight: 550;
 	position: relative;
-	top: -48%;
-    left: 48%;
+	top: -55%;
+    left: 46%;
     width: 23%;
     text-decoration: underline;
 }
@@ -365,6 +363,7 @@
 	height: 100%;
 	width: 33%;
 	float: left;
+	padding-left: 3%;
 }
 .infb-1 img{
 	width: 330px;
@@ -464,3 +463,5 @@
 .ingz-zi{
 	font-size: 1em;
 }
+
+

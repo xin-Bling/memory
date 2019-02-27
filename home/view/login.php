@@ -60,7 +60,7 @@
 			<br><br>
 			<input class="logc-input4"  type="text" name="" placeholder="密码">
 			<br><br>
-			<span class="logc-span"><a href="res.html">立即注册></a></span>
+			<span class="logc-span"><a href="res.php">立即注册></a></span>
 			<span class="logc-span1">忘记密码？</span>
 		</div>
 	</template>

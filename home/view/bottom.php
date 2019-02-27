@@ -15,39 +15,37 @@
 			<div class="ing-tiao"></div>
 			<div class="ing-zi">
 				<div class="ing-single">
-					<div class="ings-zi">配送方式</div>
-					<div class="ings-zi1">配送方式</div>
-					<div class="ings-zi1">配送方式</div>
-					<div class="ings-zi1">配送方式</div>
-					<div class="ings-zi1">配送方式</div>
+					<div class="ings-zi">情义鲜花</div>
+					<div class="ings-zi1">亲情</div>
+					<div class="ings-zi1">爱情</div>
+					<div class="ings-zi1">情义</div>
+				</div>
+				<div class="ing-single1">
+					<div class="ings-zi">鲜花花材</div>
+					<div class="ings-zi1">玫瑰</div>
+					<div class="ings-zi1">向日葵</div>
+					<div class="ings-zi1">满天星</div>
+					<div class="ings-zi1">勿忘我</div>
+				</div>
+				<div class="ing-single1">
+					<div class="ings-zi">鲜花类别</div>
+					<div class="ings-zi1">花束</div>
+					<div class="ings-zi1">花盒</div>
+					<div class="ings-zi1">桌面花篮</div>
+					<div class="ings-zi1">开业花篮</div>
+				</div>
+				<div class="ing-single1">
+					<div class="ings-zi">永生花</div>
+					<div class="ings-zi1">经典花盒</div>
+					<div class="ings-zi1">巨型玫瑰</div>
+					<div class="ings-zi1">满天星</div>
 				</div>
 				<div class="ing-single1">
 					<div class="ings-zi">配送方式</div>
-					<div class="ings-zi1">配送方式</div>
-					<div class="ings-zi1">配送方式</div>
-					<div class="ings-zi1">配送方式</div>
-					<div class="ings-zi1">配送方式</div>
-				</div>
-				<div class="ing-single1">
-					<div class="ings-zi">配送方式</div>
-					<div class="ings-zi1">配送方式</div>
-					<div class="ings-zi1">配送方式</div>
-					<div class="ings-zi1">配送方式</div>
-					<div class="ings-zi1">配送方式</div>
-				</div>
-				<div class="ing-single1">
-					<div class="ings-zi">配送方式</div>
-					<div class="ings-zi1">配送方式</div>
-					<div class="ings-zi1">配送方式</div>
-					<div class="ings-zi1">配送方式</div>
-					<div class="ings-zi1">配送方式</div>
-				</div>
-				<div class="ing-single1">
-					<div class="ings-zi">配送方式</div>
-					<div class="ings-zi1">配送方式</div>
-					<div class="ings-zi1">配送方式</div>
-					<div class="ings-zi1">配送方式</div>
-					<div class="ings-zi1">配送方式</div>
+					<div class="ings-zi1">顺风快递</div>
+					<div class="ings-zi1">在线下单</div>
+					<div class="ings-zi1">货到付款</div>
+					<div class="ings-zi1">同城速达</div>
 				</div>
 				<div class="ing-single1">
 					<div class="ings-zi">联系我们</div>

@@ -6,6 +6,8 @@
 	<link rel="icon" href="./images/花logo.jpg" type="image/x-icon"/>
 	<script type="text/javascript" src="./lib/vue.js"></script>
 	<script type="text/javascript" src="./lib/vue-router-3.0.2.js"></script>
+	<script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.js"></script>
+    <script type="text/javascript" src="./lib/bootstrap-3.3.7-dist/js/bootstrap.js"></script>
 	<link rel="stylesheet" type="text/css" href="./lib/bootstrap-3.3.7-dist/css/bootstrap.css">
 	<link rel="stylesheet" type="text/css" href="./lib/animate.min.css">
 	<link rel="stylesheet" type="text/css" href="./css/fenlei.css">
